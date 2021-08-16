@@ -1,12 +1,16 @@
 {
 	"PAGE_TITLE": "Título de la página",
 	"PAGE_DESCRIPTION": "Descripción corta de la página",
-	"OFFER_TITLE": "Mi servicio maravilloso",
-	"OFFER_DESCRIPTION": "¿Te interesa este servicio? ¡No dejes escapar esta increíble oportunidad!",
-	"FORM_TITLE": "¿Te interesa este genial servicio?",
-	"FORM_DESCRIPTION": "Recibe ahora mismo un correo electrónico con más información:",
-	"CALL_TO_ACTION": "¡Sí, quiero saber más!",
-	"FORM_RESPONSE_URL": "https://docs.google.com/forms/d/e/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX/formResponse",
-	"NAME_INPUT": "entry.XXXXXXXXX"
+	"OFFER_TITLE": "Mercado Digital a precios bajos, sin salir de casa",
+	"OFFER_DESCRIPTION": "Te ofrecemos alimentos directos del campo de cultivo a tu casa sin hacer largas colas ni cargar pesadas bolsas en tus compras del mercado al precio local.",
+	"OFFER_FEATURES" :"Caracteristicas:",
+	"ONE_FEATURE":"Muchos metodos de pago disponible en nuestra plataforma efectivo,credito,debito.",
+	"TWO_FEATURE":"Puedes pagar recien cuando llegue tu pedido a tu casa o antes",
+	"THREE_FEATURE":"La aplicacion es muy facil de utilizar, se el primero en INSCRIBIRTE para ganar muchos envios GRATIS y DESCUENTOS en tus pedidos",
+	"FORM_TITLE": "Inscribete Gratis:",
+	"FORM_DESCRIPTION": "Recibirás un correo electrónico para ser el primero en utilizar nuestra plataforma ⬇⬇⬇",
+	"CALL_TO_ACTION": "Inscribirme",
+	"FORM_RESPONSE_URL": "https://docs.google.com/forms/d/e/1FAIpQLSdTMF5KbDjHj7G_ig_qMrxo2BU-SqQSefPPz-vAZTRbZt-4zg/formResponse",
+	"numberPhone":"LwH6nd"
 }
 
